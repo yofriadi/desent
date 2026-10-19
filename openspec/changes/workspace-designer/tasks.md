@@ -36,8 +36,8 @@
 
 ## 6. Verification, Responsive Polish & Deployment
 
-- [ ] 6.1 Ensure fluid responsive behavior and touch-friendly controls across mobile, tablet, and desktop screens
-- [ ] 6.2 Verify error-free production build (`npm run build` / Next.js static/standalone export)
+- [x] 6.1 Ensure fluid responsive behavior and touch-friendly controls across mobile, tablet, and desktop screens
+- [x] 6.2 Verify error-free production build (`npm run build` / Next.js static/standalone export)
 - [ ] 6.3 Run acceptance verification checklist validating all spec scenarios (preset loading, hotspot activation, pricing discounts, URL permalink round-trip)
 - [ ] 6.4 Deploy application to Vercel and verify the live public URL
-- [ ] 6.5 Push project repository to GitHub, invite `desent-bot` as collaborator, and verify collaborator permissions
+- [x] 6.5 Push project repository to GitHub, invite `desent-bot` as collaborator, and verify collaborator permissions
